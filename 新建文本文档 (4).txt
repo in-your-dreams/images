@@ -1,5 +1,0 @@
-![image-20240123030306262](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240123030306262.png)
-
-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
-
-github的令牌，用于访问权限
